@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## 📌 Description
-This project demonstrates **Linux server security automation** with **Fail2ban** and **Bash scripting**.  
+This project demonstrates **Linux server hardening** using Fail2ban and **automated log analysis**.  
 It configures SSH protection and generates an automatic attack report from logs.
 
 ## 🎯 Features
